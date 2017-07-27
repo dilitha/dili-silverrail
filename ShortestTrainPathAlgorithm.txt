@@ -1,0 +1,4 @@
+Get two station georgrophical coordinates
+Get the either one of these :
+	'Depart after' time
+	'Arrive before'time
